@@ -20,8 +20,11 @@ Steps
  Copyright © 2020 sebing
  
  Donations:
+ 
  Bitcoin - 13zdfsZpSwYMB3TsWQr6djDkDjXJgwwaUV
+ 
  Paypal - sebingeo@yahoo.com
+ 
  
  Compliments, suggestions and issues sebingeo@yahoo.com
  
