@@ -5,10 +5,24 @@ https://skylum.com/luminar
 
 This is a trail project
  - If you find any issues please raise issues
- - I have tried only with the external hard drive
+ - I have tried only with the external hard drive 
 
+## Pre requesit
+ - Java 11
+One way to install java with Homebrew
 
-Steps 
+Execute these steps in terminal
+```
+sudo -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+Adobe Open JDK 11
+```
+brew tap AdoptOpenJDK/openjdk
+brew cask install adoptopenjdk11
+```
+
+## Steps 
  1. Backup your catalog file in Windows
  2. Open Luminar in Mac and add the same folders which you have in windows
  3. Open the application
