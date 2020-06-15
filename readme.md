@@ -24,11 +24,12 @@ brew cask install adoptopenjdk11
 
 ## Steps 
  1. Backup your catalog file in Windows
- 2. Open Luminar in Mac and add the same folders which you have in windows
- 3. Open the application
- 4. Select the Windows and Mac catalog files
- 5. Migrate
- 6. Re import the windows catalog in Mac.(if you want you can move/rename the catalog file)
+ 2. Open Luminar in Mac and add the same folders which you have in windows. 
+ 3. Exit the Luminar application.
+ 4. Open the migration application
+ 5. Select the Windows and Mac catalog files
+ 6. Migrate
+ 7. Re import the windows catalog in Mac version of luninar.(if you want you can move/rename the catalog file same as the mac version so you don't have to re-import)
  
  
  Copyright © 2020 sebing
